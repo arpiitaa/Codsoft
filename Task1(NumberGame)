@@ -1,6 +1,8 @@
 # Codsoft
 Java Programming Internship
 
+NUMBER GUESSING GAME
+
 I have developed a Number Game which starts by displaying the message to the user.
 In this task, there is a secret number chosen by the system and we have to guess the number.
 Now there will be 5 attempts to guess the number.
