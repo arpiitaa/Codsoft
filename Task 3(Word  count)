@@ -1,0 +1,11 @@
+# Codsoft - Task 3 (WORDCOUNT)
+Java Programming Internship
+
+It is a WORDCOUNTER where it reads the input of text and file path. 
+In this the sentence which we enter is tell us the number of words, unique word and the frequency of each word which we have entered.
+In this code, the main method prompts the user to enter 'T' for text input or 'F' for file input.
+Based on the choice, it reads the input text or file using a Scanner or FileReader, respectively.
+The countWords method takes the input text, splits it into an array of words using space or punctuation as delimiters, and counts the total number of words. 
+It also counts the number of unique words by using a HashMap to store the frequency of each word encountered.
+Finally, it displays the total word count, unique word count, and the frequency of each word.
+And at the end it ends with exit.
